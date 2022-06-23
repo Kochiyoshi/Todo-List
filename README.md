@@ -1,5 +1,5 @@
 # GitHub Pages
-- [Link](https://kochiyoshi.github.io/Simple-Calculator/)
+- [Link](https://kochiyoshi.github.io/Todo-List/)
 
 # Getting Started with Create React App
 
